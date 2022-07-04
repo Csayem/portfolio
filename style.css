@@ -73,3 +73,18 @@ h2 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+footer p {
+    text-align: center;
+}
+
+#full-stack {
+    border-left: 8px solid blue;
+    border-top: 7px solid blue;
+
+}
+
+#baby-web {
+    border-top: 7px solid blue;
+    border-left: 7px solid blue;
+}
